@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is FileB-Master-branch"
+=======
+"This is FileB-Feature-Branch"
+>>>>>>> feature
